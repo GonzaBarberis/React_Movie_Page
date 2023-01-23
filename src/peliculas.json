@@ -1,0 +1,90 @@
+[
+  {
+    "titulo": "Baywatch: guardianes de la bahía (2018)",
+    "calificacion":"8.8",
+    "director":"Seth Gordon",
+    "actores":"Dwayne Johnson, Zac Efron, Alexandra Daddario, Kelly Rohrbach",
+    "lanzamiento":"Release: 01/05/2018",
+    "duracion":"2h 01min",
+    "año":"2018",
+    "img":"images/uploads/mv7.jpg",
+    "descripcion": "Dwayne Jhonson y Zac Efron hacen equipo y van mucho más allá de su deber cuando una ola de alarmantes crímenes suceden en la playa de Los Ángeles."
+  },
+  {
+    "titulo": "The Fate of the Furious (2017)",
+    "calificacion":"7.9",
+    "director":"F. Gary Gray",
+    "actores":"Vin Diesel, Dwayne Johnson, Jason Statman, Tyrese Gibson, Michelle Rodriguez",
+    "lanzamiento":"Release: 01/05/2017",
+    "duracion":"2h 17min",
+    "año":"2017",
+    "img":"images/uploads/mv8.jpg",
+    "descripcion": "Con Dom y Letty de luna de miel, una misteriosa mujer seducirá a Dom para adentrarlo en el mundo del crimen y traicionar a la pandilla."
+  },
+  {
+    "titulo": "Un espía y medio (2016)",
+    "calificacion":"7.0",
+    "director":"Rawson Marshall Thurber",
+    "actores":"Kevin Hart, Dwayne Johnson, Aaron Paul, Sione Kelep, Amy Ryan",
+    "lanzamiento":"Release: 01/05/2016",
+    "duracion":"1h 54min",
+    "año":"2016",
+    "img":"images/uploads/mv9.jpg",
+    "descripcion": "Un agente de la CIA recluta al que era el chico más popular de la escuela, para que le ayude en una peligrosa misión en la que ambos tendrán que arriesgarlo todo."
+  },
+  {
+    "titulo": "into the wild (2019)",
+    "calificacion":"7.8",
+    "director":"Anthony Russo, Joe Russo",
+    "actores":"Chris Evans, Samuel L. Jackson, Scarlett Johansson",
+    "lanzamiento":"Release: 01/05/2019",
+    "duracion":"2h 21min",
+    "año":"2019",
+    "img":"images/uploads/mv2.jpg",
+    "descripcion":"As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+  },
+  {
+    "titulo": "blade runner (2012)",
+    "calificacion":"7.3",
+    "director":"Peyton Reed",
+    "actores":"Paul Rudd, Michael Douglas",
+    "lanzamiento":"Release: 01/05/2012",
+    "duracion":"1h 55min",
+    "año":"2012",
+    "img":"images/uploads/mv3.jpg",
+    "descripcion": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+  },
+  {
+    "titulo": "oblivion (2012)",
+    "calificacion":"8.1",
+    "director":"Joss Whedon",
+    "actores":"Robert Downey Jr., Chris Evans, Chris Hemsworth",
+    "lanzamiento":"Release: 01/05/2012",
+    "duracion":"2h 34min",
+    "año":"2012",
+    "img":"images/uploads/mv1.jpg",
+    "descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+  },
+  {
+    "titulo": "MULHOLLAND PRIDE (2013)",
+    "calificacion":"7.2",
+    "director":"Shane Black",
+    "actores":"Robert Downey Jr., Guy Pearce,Don Cheadle",
+    "lanzamiento":"Release: 01/05/2013",
+    "duracion":"1h 40min",
+    "año":"2013",
+    "img":"images/uploads/mv4.jpg",
+    "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+  },
+  {
+    "titulo": "SKYFALL: EVIL OF BOSS (2017)",
+    "calificacion":"8.6",
+    "director":"Sam Mendes",
+    "actores":"Daniel Craig, Natalie Portman, Tom Hiddleston",
+    "lanzamiento":"Release: 01/05/2017",
+    "duracion":"2h 15min",
+    "año":"2017",
+    "img":"images/uploads/mv6.jpg",
+    "descripcion": "James Bond's (Daniel Craig's) latest adventure takes him deep to the heart of Istanbul, Turkey to retrieve a hard disc containing the names of S.W.A.T. operatives."
+  }
+  ]
